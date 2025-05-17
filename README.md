@@ -16,8 +16,8 @@ This project provides a Python-based camera calibration tool using OpenCV.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/camera-calibration.git
-   cd camera-calibration
+   git clone https://github.com/SagarWadke/Camera_Calibration.git
+   cd Camera_Calibration
 
 2. Save the images of the calibration board taken from your camera in the same directory where the camera_calibration.py file is located.
 
